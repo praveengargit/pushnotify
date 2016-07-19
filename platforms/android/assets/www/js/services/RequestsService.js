@@ -6,7 +6,7 @@
 	function RequestsService($http, $q, $ionicLoading){
 
 		//for server
-		var base_url = 'your-server.com';
+		var base_url = 'http://69209431.ngrok.io';
 
 		function register(device_token){
 
